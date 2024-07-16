@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aguiarHugo?tab=repositories](https://github.com/aguiarHugo?tab=repositories)
 
-- 📫 How to reach me **dev.hugoas@gmail.com**
+- 📫 How to reach me **aguiarhugofx@gmail.com**
 
 - ⚡ Fun fact **I know that I know nothing**
 
